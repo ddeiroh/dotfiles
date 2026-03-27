@@ -1,0 +1,7 @@
+alias _="sudo"
+alias v="nvim"
+alias vim="nvim"
+alias lbin="cd ~/.local/bin"
+alias apps="cd ~/.local/share/applications"
+alias addalias="nvim $ZSH_CUSTOM/aliases.zsh"
+alias fstab="nvim /etc/fstab"
